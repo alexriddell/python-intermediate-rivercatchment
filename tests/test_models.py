@@ -195,3 +195,7 @@ def test_normalise(test_data, test_index, test_columns, expected_data, expected_
 
 #     with pytest.raises(AttributeError):
 #         error_expected = daily_min([[3, 4, 7], [-3, 0, 5]])
+    
+
+
+
