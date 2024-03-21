@@ -1,7 +1,7 @@
 # RiverCatch
 
 # RiverCatch
-![Continuous Integration build in GitHub Actions](https://github.com/alexriddell/python-intermediate-rivercatchment/blob/main/README.mds/CI)
+![Continuous Integration build in GitHub Actions](https://github.com/alexriddell/python-intermediate-rivercatchment/workflows/CI/badge.svg?branch=main)
 
 RiverCatch is a data management system written in Python that manages measurement data collected in river catchment surveys and campaigns.
 
